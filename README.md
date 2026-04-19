@@ -1,1 +1,4 @@
 # IEEESBM
+I implemented Linear Regression for predicting continuous values as part of a complete machine learning pipeline. The process included handling missing values, cleaning the dataset, removing unnecessary columns, correcting data types, and applying appropriate feature engineering techniques. The model was trained on the processed data and achieved an R² score of 0.81, indicating strong predictive performance.
+
+I also implemented Logistic Regression for classification tasks. The dataset was preprocessed using data cleaning techniques, removal of irrelevant features, and One-Hot Encoding for categorical variables to make it suitable for classification. The model was evaluated using multiple performance metrics, achieving an Accuracy of 0.69, Precision of 0.24, Recall of 0.55, F1 Score of 0.34, and Specificity of 0.71, indicating moderate classification performance.
